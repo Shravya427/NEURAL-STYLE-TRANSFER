@@ -55,3 +55,6 @@ By combining the power of convolutional neural networks with artistic creativity
 
 # OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/b3a23e69-16fe-495d-87e4-1ba7f10817ee)
+
+![Image](https://github.com/user-attachments/assets/67fe0055-7483-4f81-a025-dc7981d07295)
